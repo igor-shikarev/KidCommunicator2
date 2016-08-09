@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Говорящие картинки: Аутизм ДЦП</string>
+    <string name="title_settings">Настройки</string>
+		<string name="title_sound_settings">Настройка звука</string>
+		<string name="title_phrases_settings">Настройка фраз</string>
+    <string name="title_about">О программе</string>
+    <string name="str_not_selected">Не выбрано</string>
+    <string name="str_about_text">Эта программа посвящена моей дочери Ульяне. В силу разных причин она у нас особенный ребенок, поэтому и была создана программа для облегчения общения и понимания желаний ребенка. Если есть у Вас пожелания по улучшению программы для более удобного использования, то
+    пишите на адрес igor.shikarev@gmail.com. Если Вы хотите денежно поблагодарить разработчика программы или пожертвовать на лечение моей дочки, то можете перечислить деньги на электронный кошелёк: Яндекс.Деньги 41001132082060, WebMoney R640839339481, Z371052739587</string>
+    <string name="str_input_text">Введите текст</string>
+		
+		<string name="mess_eat">Я хочу кушать</string>
+    <string name="mess_drink">Я хочу пить</string>
+    <string name="mess_sleep">Я хочу спать</string>
+    <string name="mess_tv">Я хочу посмотреть телевизор</string>
+    <string name="mess_computer">Я хочу поиграть на компьютере</string>
+    <string name="mess_diaper">Поменяйте мне подгузник</string>
+    <string name="mess_draw">Я хочу порисовать</string>
+    <string name="mess_carpet">Я хочу сесть на пол</string>
+    <string name="mess_toilet">Я хочу в туалет</string>
+    <string name="mess_sofa">Я хочу на диван (или в коляску, надо спросить)</string>
+    <string name="mess_room">Я хочу в комнату (надо спросить в какую)</string>
+    <string name="mess_walk">Я хочу погулять</string>
+    <string name="mess_helpme">Мне нужна помощь!</string>
+    <string name="mess_playtoy">Я хочу поиграть игрушками</string>
+    
+    <string name="cfg_button_sound_title">Проигрывать звуки при нажатии кнопки</string>
+    
+		<string name="donate_title">Пожертвовать разработчику</string>
+    <string name="donate_title1">Пожертвования</string>
+		<string name="donate_text">Пожертвовать разработчику</string>
+		<string name="donate_yes">Пожертвовать разработчику</string>
+		<string name="donate_cancel">Уже пожертвовал</string>
+    <string name="donate_s">Подарить шоколадку</string>
+    <string name="donate_m">Подарить 2 шоколадки</string>
+    <string name="donate_l">Подарить 2 шоколадки + сок</string>
+    <string name="donate_xl">Подарить обед</string>
+    <string name="donate_xxl">Оплатить один день работы</string>
+    
+    <string name="thank_you">Благодарим Вас за помощь разработчику!</string>
+		
+    <string-array name="cfg_button_sound_names">
+        <item>Тишина</item>
+        <item>Проигрывать</item>
+        <item>Проговаривать если возможно</item>
+    </string-array>
+    <string-array name="cfg_button_sound_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>        
+    </string-array>   
+        
+
+</resources>

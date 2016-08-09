@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PreferenceScreen
+	xmlns:android="http://schemas.android.com/apk/res/android">
+
+		<ListPreference
+			android:entries="@array/cfg_button_sound_names"
+			android:entryValues="@array/cfg_button_sound_values"
+			android:key="cfg_sound_type"
+			android:summary=""
+			android:title="@string/title_sound_settings">
+		</ListPreference>
+		
+	
+	<PreferenceScreen
+		android:key="cfg_button_sound"
+		android:summary=""
+		android:title="@string/title_phrases_settings">
+		
+	</PreferenceScreen>	
+	
+</PreferenceScreen>

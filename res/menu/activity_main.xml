@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/mi_settings" android:title="@string/title_settings" android:showAsAction="never"></item>
+  <item android:id="@+id/mi_donation" android:title="@string/donate_title1" android:showAsAction="never" android:orderInCategory="200"></item>
+	<item android:id="@+id/mi_about" android:title="@string/title_about" android:showAsAction="never" android:orderInCategory="300"></item>
+</menu>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Falando Fotos: Autism Paralisia Cerebral</string>
+    <string name="title_settings">Configurações</string>
+		<string name="title_sound_settings">Definições de som</string>
+		<string name="title_phrases_settings">Configurações de frases</string>
+    <string name="title_about">Sobre</string>
+    <string name="str_not_selected">Não selecionado</string>
+    <string name="str_about_text">This program is dedicated to my daughter, Uliana.
+    She is a special need child (she can understand but can\'t speak) so i created this program to help parents of such children to improve communication with them and for better understanding of child\'s needs.
+    If you have any comments or suggestions regarding this program please contact me via email: igor.shikarev@gmail.com.
+    If you would like to support this program financially or donate money for Uliana\'s treatment you can send your monetary gift to this electronic account: WebMoney R640839339481, Z371052739587</string>
+		<string name="str_input_text">Entrada de texto</string>
+
+		<string name="mess_eat">Eu quero comer</string>
+    <string name="mess_drink">Eu quero beber</string>
+    <string name="mess_sleep">Quero dormir</string>
+    <string name="mess_tv">Eu quero assistir TV</string>
+    <string name="mess_computer">Eu quero jogar o jogo de computador</string>
+    <string name="mess_diaper">Mudar a minha fralda</string>
+    <string name="mess_draw">Quero chamar</string>
+    <string name="mess_carpet">Eu quero sentar em um chão</string>
+    <string name="mess_toilet">Eu preciso ir ao banheiro</string>
+    <string name="mess_sofa">Eu quero sentar em um sofá (sofá-cama), eu quero entrar em carrinho de criança</string>
+    <string name="mess_room">Eu quero ir para o quarto (que quarto?)</string>
+    <string name="mess_walk">Eu quero ir para fora (para uma caminhada)</string>
+    <string name="mess_helpme">Ajude-me! Ajude-me!</string>
+    <string name="mess_playtoy">Eu quero jogar brinquedos</string>
+
+    <string name="cfg_button_sound_title">Tocar um som quando o botão de clique</string>
+    
+		<string name="donate_title">Donation</string>
+    <string name="donate_title1">Doação</string>
+		<string name="donate_text">Doe para desenvolvedor</string>
+		<string name="donate_yes">Doe para desenvolvedor</string>
+		<string name="donate_cancel">I doaram</string>
+    <string name="donate_s">Dê Chocolate</string>
+    <string name="donate_m">Dê 2x Chocolates</string>
+    <string name="donate_l">Dê 2x Chocolates + Juice</string>
+    <string name="donate_xl">Dê Almoço</string>
+    <string name="donate_xxl">Pagar por um dia de trabalho</string>
+
+		<string name="thank_you">Obrigado por ajudar o desenvolvedor!</string>    
+
+    <string-array name="cfg_button_sound_names">
+        <item>Silêncio</item>
+        <item>Toque</item>
+        <item>Fala se possível</item>
+    </string-array>
+    <string-array name="cfg_button_sound_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+</resources>

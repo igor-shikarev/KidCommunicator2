@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Talking Pictures: Autism Cerebral Palsy</string>
+    <string name="title_settings">Settings</string>
+		<string name="title_sound_settings">Sound Settings</string>
+		<string name="title_phrases_settings">Phrases Settings</string>
+    <string name="title_about">About</string>
+    <string name="str_not_selected">Not selected</string>
+    <string name="str_about_text">This program is dedicated to my daughter, Uliana.
+    She is a special need child (she can understand but can\'t speak) so i created this program to help parents of such children to improve communication with them and for better understanding of child\'s needs.
+    If you have any comments or suggestions regarding this program please contact me via email: igor.shikarev@gmail.com.
+    If you would like to support this program financially or donate money for Uliana\'s treatment you can send your monetary gift to this electronic account: WebMoney R640839339481, Z371052739587</string>
+		<string name="str_input_text">Input Text</string>
+
+		<string name="mess_eat">I want to eat</string>
+    <string name="mess_drink">I want to drink</string>
+    <string name="mess_sleep">I want to sleep</string>
+    <string name="mess_tv">I want to watch TV</string>
+    <string name="mess_computer">I want to play computer game</string>
+    <string name="mess_diaper">Change my diaper</string>
+    <string name="mess_draw">I want to color</string>
+    <string name="mess_carpet">I want to sit on a floor</string>
+    <string name="mess_toilet">I need to go potty</string>
+    <string name="mess_sofa">I want to sit on a couch (sofa), i want to get into stroller</string>
+    <string name="mess_room">I want to go to the room (which room?)</string>
+    <string name="mess_walk">I want to go outside (for a walk)</string>
+    <string name="mess_helpme">Help me! Help me!</string>
+    <string name="mess_playtoy">I want to play toys</string>
+
+    <string name="cfg_button_sound_title">Play sound when button click</string>
+
+		<string name="donate_title">Donate to Developer</string>
+    <string name="donate_title1">Donation</string>
+		<string name="donate_text">Donate to Developer</string>
+		<string name="donate_yes">Donate to Developer</string>
+		<string name="donate_cancel">I have donated</string>
+    <string name="donate_s">Give Chocolate</string>
+    <string name="donate_m">Give 2x Chocolates</string>
+    <string name="donate_l">Give 2x Chocolates + Juice</string>
+    <string name="donate_xl">Give Lunch</string>
+    <string name="donate_xxl">Pay for a day job</string>
+
+		<string name="in_app_bill_error">Problem setting up in-app billing</string>
+		<string name="purchase_error">Error purchasing: </string>
+		<string name="error_verification">Error purchasing: Authenticity verification failed</string>
+		<string name="thank_you">Thank you for helping the developer!</string>
+		<string name="error_consume">Error while consuming: </string>
+
+		<string name="app_lic301">aO9Ps1rOJR74QHfWXTqHU+i2FC4FTd7kpT76az0Kg1zFMBxNU6SUTnshgSYW894ij4vSggXinGmduztovMXPAsYeNtE48OzG4yfh3p+BBBO2Y8qDeP5tUVswiS</string>
+		<string name="app_lic112">Smj49hp8v9vWnjvk7LmQIDAQAB</string>
+		<string name="app_lic312">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyVkwg8C0VO+oMLlbA0/WS/wjAW/Sbpz0FZ+k30eHKirHgTmyggjnUDziA0wXBsf44mJ1e7OEEHtlSZ</string>
+		<string name="app_lic413">o3kh7Gz0K5XnjL1vbo4xW1fSS0fAv4V6eW+PKDvXZU7eA9mopR5A8O1D0iFvuLoCz/cNFSumTTCXPRwpcmYBZItMKO3AHgi3UouovMKTRawHdM+ut8A3KsVmOB</string>
+
+    <string-array name="cfg_button_sound_names">
+        <item>Silence</item>
+        <item>Play</item>
+        <item>Speak if possible</item>
+    </string-array>
+    <string-array name="cfg_button_sound_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+</resources>
